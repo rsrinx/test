@@ -1,2 +1,2 @@
 ## Описание проекта
-autor: dev 1
+author: dev 2
